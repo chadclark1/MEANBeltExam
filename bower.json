@@ -1,0 +1,22 @@
+{
+  "name": "DiscussionBoard",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Chad Clark <chadclark1@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chadclark1/MEANDiscussionBoard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-cookies": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular": "^1.5.8"
+  }
+}
